@@ -1,2 +1,2 @@
 # Bili-2-Flarum
-A Tampermonkey user script
+A Tampermonkey userscript that turns Bilibili dynamics into Flarum Posts.
